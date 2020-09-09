@@ -1,0 +1,9 @@
+app_review_information(
+  first_name: "Rosendo",
+  last_name: "Castillo",
+  email_address: "Rosendo.usa@gmail.com",
+)
+
+
+submit_for_review false
+skip_screenshots true
