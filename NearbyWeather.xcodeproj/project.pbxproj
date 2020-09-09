@@ -881,14 +881,14 @@
 					};
 					F204B78A1DF2EFA3000F4371 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = VDPU24L36V;
+						DevelopmentTeam = 5F8R69HEJT;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						TestTargetID = F204B7761DF2EFA3000F4371;
 					};
 					F204B7951DF2EFA3000F4371 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = VDPU24L36V;
+						DevelopmentTeam = 5F8R69HEJT;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						TestTargetID = F204B7761DF2EFA3000F4371;
@@ -1494,10 +1494,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = VDPU24L36V;
+				DEVELOPMENT_TEAM = 5F8R69HEJT;
 				INFOPLIST_FILE = NearbyWeatherTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.erikmaximilianmartens.NearbyWeatherTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "mx.r-cp.weatherTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NearbyWeather.app/NearbyWeather";
@@ -1510,10 +1510,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = VDPU24L36V;
+				DEVELOPMENT_TEAM = 5F8R69HEJT;
 				INFOPLIST_FILE = NearbyWeatherTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.erikmaximilianmartens.NearbyWeatherTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "mx.r-cp.weatherTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NearbyWeather.app/NearbyWeather";
@@ -1524,10 +1524,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
-				DEVELOPMENT_TEAM = VDPU24L36V;
+				DEVELOPMENT_TEAM = 5F8R69HEJT;
 				INFOPLIST_FILE = NearbyWeatherUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.erikmaximilianmartens.NearbyWeatherUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "mx.r-cp.weatherUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = NearbyWeather;
@@ -1538,10 +1538,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
-				DEVELOPMENT_TEAM = VDPU24L36V;
+				DEVELOPMENT_TEAM = 5F8R69HEJT;
 				INFOPLIST_FILE = NearbyWeatherUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.erikmaximilianmartens.NearbyWeatherUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "mx.r-cp.weatherUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = NearbyWeather;
